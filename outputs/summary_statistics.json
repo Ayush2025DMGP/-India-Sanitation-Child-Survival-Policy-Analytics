@@ -1,0 +1,21 @@
+{
+  "country": "India",
+  "period_requested": "2000-2022",
+  "rows": 23,
+  "paired_years": 23,
+  "missing_values": {
+    "basic_sanitation_pct": 0,
+    "under5_mortality_per_1000": 0
+  },
+  "sanitation_start_year": 2000,
+  "sanitation_start_pct": 21.1,
+  "sanitation_end_year": 2022,
+  "sanitation_end_pct": 79.8,
+  "sanitation_change_percentage_points": 58.7,
+  "mortality_start_year": 2000,
+  "mortality_start_rate": 91.2,
+  "mortality_end_year": 2022,
+  "mortality_end_rate": 29.9,
+  "mortality_change": -61.3,
+  "pearson_correlation": -0.97
+}

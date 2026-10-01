@@ -1,0 +1,11 @@
+{
+  "status": "In-sample descriptive regression",
+  "predictor": "Basic sanitation access (%)",
+  "target": "Under-five mortality per 1,000 live births",
+  "n": 23,
+  "intercept": 121.3521,
+  "slope_per_percentage_point": -1.154,
+  "r_squared_in_sample": 0.94,
+  "mae_in_sample": 2.8,
+  "caution": "Observational time-series association; not a causal effect or validated forecast."
+}
